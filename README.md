@@ -1,6 +1,6 @@
 # PDF Assistant
 
-PDF Assistant is an interactive tool that lets you upload PDF documents and engage with them intelligently—chat with your PDFs, generate summaries, create MCQs, and build a learning timetable. Built with Streamlit and powered by Google Gemini Flash, this project is designed for students, educators, and professionals seeking a smarter way to explore and learn from documents.
+PDF Assistant is an interactive tool that lets you upload PDF documents and engage with them intelligently chat with your PDFs, generate summaries, create MCQs, and build a learning timetable. Built with Streamlit and powered by Google Gemini Flash, this project is designed for students, educators, and professionals seeking a smarter way to explore and learn from documents.
 
 ## Features
 
