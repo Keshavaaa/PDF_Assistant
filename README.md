@@ -48,7 +48,7 @@ pdf-assistant/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/pdf-assistant.git
+git clone https://github.com/Keshavaaa/PDF-Assistant.git
 cd pdf-assistant
 ```
 
